@@ -4,7 +4,10 @@
     {
         public static void Main(string[] args) 
         {
-            Console.WriteLine("Data Annotation and Garabge examples");
+            // Data Annotation........................
+            AnnotationTest.display();
+
+          
 
         }
     }
